@@ -3,7 +3,7 @@
   "adminEmail": "sfdocampfires@salesforce.com",
   "description": "SFDO Platform Campfire",
   "features": ["EnableSetPasswordInApi"],
-  "template": "0TT6e0000064KS2",
+  "template": "0TTDn00000D9ynm",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
